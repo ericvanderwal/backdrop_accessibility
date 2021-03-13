@@ -12,13 +12,13 @@ Here are some helpful links when working with web accessability.
 
 ### Standards ###
 
-https://www.ada.gov/pcatoolkit/chap5toolkit.htm
-https://www.w3.org/WAI/GL/WCAG20/
+https://www.ada.gov/pcatoolkit/chap5toolkit.htm  
+https://www.w3.org/WAI/GL/WCAG20/  
 
 ### Guides ###
 
-https://a11y-101.com/
-https://www.accessibility-developer-guide.com/
+https://a11y-101.com/  
+https://www.accessibility-developer-guide.com/  
 
 ### Checklists ###
 
