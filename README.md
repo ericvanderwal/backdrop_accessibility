@@ -1,14 +1,14 @@
-# An Introduction to Backdrop and Accessability
+# An Introduction to Backdrop and Accessibility
 
-In this one hour presentation we take a brief overview of the WCAG standards, ADA (Americans Disability Act) web compliance and some simple things we can do to make our websites more accessible.
+In this one hour presentation we take a brief overview of the WCAG standards, ADA (Americans with Disabilities Act) web compliance and some simple things we can do to make our websites more accessible.
 
 ## Presentation Video ##
 
-The presentation aspect of this talk is avaliable online for free on youtube: https://www.youtube.com/watch?v=kFqK883xb9U&t=7s
+The presentation aspect of this talk is available online for free on youtube: https://www.youtube.com/watch?v=kFqK883xb9U&t=7s
 
 ## Additional Reading ##
 
-Here are some helpful links when working with web accessability.
+Here are some helpful links when working with web accessibility.
 
 ### Standards ###
 
